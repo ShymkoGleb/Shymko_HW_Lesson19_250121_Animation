@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Shymko_HW_Lesson19_250121_Animation</string>
+    <string name="transition_contact_image">transitionContactImage</string>
+    <string name="transition_contact_name">transitionContactName</string>
+    <string name="transition_contact_number">transitionContactNumber</string>
+    <string name="transition_contact_container">transitionContactContainer</string>
+
+    <string name="details_age">%d y.o.</string>
+
+    <string name="icon_transition">icon_transition</string>
+    <string name="name_transition">name_transition</string>
+    <string name="phone_transition">phone_transition</string>
+    <string name="container_transition">container_transition</string>
+    <string name="start_text">RVContactPage</string>
+    <string name="contact_page_text">ContactPage</string>
+
+
 </resources>

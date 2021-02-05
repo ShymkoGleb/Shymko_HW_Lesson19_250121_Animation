@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:transitionName="@string/container_transition">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_700"
+        android:gravity="center"
+        android:text="@string/contact_page_text"
+        android:textColor="@color/black"
+        android:textSize="@dimen/start_text_size" />
+
+    <ImageView
+        android:id="@+id/ivContactIcon"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/iv_contct_icon_size"
+        android:layout_marginBottom="@dimen/margin_bottom"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_baseline_cake_24"
+        android:transitionName="@string/icon_transition" />
+
+    <TextView
+        android:id="@+id/tvContactName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_bottom"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/details_text_size"
+        android:transitionName="@string/name_transition"
+        tools:hint="tvDetailsName"
+        tools:ignore="SpUsage" />
+
+    <TextView
+        android:id="@+id/tvContactPhone1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/details_text_size"
+        tools:hint="tvContactPhone1"
+        tools:ignore="SpUsage" />
+
+</LinearLayout>
