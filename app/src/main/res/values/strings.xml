@@ -5,8 +5,6 @@
     <string name="transition_contact_number">transitionContactNumber</string>
     <string name="transition_contact_container">transitionContactContainer</string>
 
-    <string name="details_age">%d y.o.</string>
-
     <string name="icon_transition">icon_transition</string>
     <string name="name_transition">name_transition</string>
     <string name="phone_transition">phone_transition</string>

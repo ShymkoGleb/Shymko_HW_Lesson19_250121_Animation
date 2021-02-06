@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="iv_contcat_icon_size">200</dimen>
+    <dimen name="margin_bottom">25dp</dimen>
+    <dimen name="iv_contct_icon_size">200dp</dimen>
+    <dimen name="margin">10dp</dimen>
+</resources>
