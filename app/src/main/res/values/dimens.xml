@@ -4,4 +4,5 @@
     <dimen name="margin_bottom">25dp</dimen>
     <dimen name="iv_contct_icon_size">200dp</dimen>
     <dimen name="margin">10dp</dimen>
+    <dimen name="marginlow">5dp</dimen>
 </resources>
